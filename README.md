@@ -1,12 +1,11 @@
 <h1>Hi 👋, I'm Denys</h1>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dengoloborodko&theme=radical" 
+     alt="dengoloborodko"/>
+
 <h3>An engineer with a passion for building user interfaces</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=dengoloborodko&show_icons=true&theme=radical&include_all_commits=true" 
-     alt="dengoloborodko" 
-     align="top"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dengoloborodko&theme=radical" 
      alt="dengoloborodko"/>
 
 <p>
