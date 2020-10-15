@@ -1,7 +1,8 @@
 <h1>Hi 👋, I'm Denys</h1>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dengoloborodko&theme=radical" 
-     alt="dengoloborodko"/>
+     alt="dengoloborodko"
+     align="right"/>
 
 <h3>An engineer with a passion for building user interfaces</h3>
 
