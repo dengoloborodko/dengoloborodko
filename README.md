@@ -13,8 +13,6 @@
      
 ### [Link on my portfolio](https://dengoloborodko.github.io/Portfolio/Portfolio/dist/)
 
-<br/>
-
 [<img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" 
      alt="linkedin"
      align="left"
@@ -28,6 +26,7 @@
      align="left"
      width="26"/>](https://www.codewars.com/users/Denys1911)
      
+<br/>
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=dengoloborodko" alt="dengoloborodko"/>
