@@ -9,7 +9,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dengoloborodko&show_icons=true&theme=radical&include_all_commits=true" 
      alt="dengoloborodko"/>
      
-<a href="https://dengoloborodko.github.io/Portfolio/Portfolio/dist/">Link on my portfolio</a>
+<br/>
+     
+## [Link on my portfolio](https://dengoloborodko.github.io/Portfolio/Portfolio/dist/)
 
 <p>
     <a href="mailto:den.od.1911@gmail.com">
