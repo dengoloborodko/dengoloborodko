@@ -14,8 +14,10 @@
 ### [Link on my portfolio](https://dengoloborodko.github.io/Portfolio/Portfolio/dist/)
 
 [<img align="left" alt="mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" />][website]
+[<img align="left" alt="linkedin" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
 
 [mail]: mailto:den.od.1911@gmail.com
+[linkedin]: https://www.linkedin.com/in/denys-goloborodko-b24005175
 
 <p>
     <a href="mailto:den.od.1911@gmail.com">
