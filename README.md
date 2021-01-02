@@ -13,6 +13,10 @@
      
 ### [Link on my portfolio](https://dengoloborodko.github.io/Portfolio/Portfolio/dist/)
 
+[<img align="left" alt="mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" />][website]
+
+[mail]: mailto:den.od.1911@gmail.com
+
 <p>
     <a href="mailto:den.od.1911@gmail.com">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" 
