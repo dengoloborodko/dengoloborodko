@@ -13,35 +13,17 @@
      
 ### [Link on my portfolio](https://dengoloborodko.github.io/Portfolio/Portfolio/dist/)
 
-<img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" 
+[<img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" 
      alt="mailto:den.od.1911@gmail.com"
      align="left"
-     width="26"/>(mailto:den.od.1911@gmail.com)
-<img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" 
+     width="26"/>](mailto:den.od.1911@gmail.com)
+[<img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" 
      alt="linkedin"
      align="left"
-     width="26"/>(https://www.linkedin.com/in/denys-goloborodko-b24005175)
-<img src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png" 
+     width="26"/>](https://www.linkedin.com/in/denys-goloborodko-b24005175)
+[<img src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png" 
      alt="codewars"
      align="left"
-     width="26"/>(https://www.codewars.com/users/Denys1911)
-
-<p>
-    <a href="mailto:den.od.1911@gmail.com">
-        <img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" 
-	     alt="mailto:den.od.1911@gmail.com" 
-	     width="26"/>
-    </a>
-    <a href="https://www.linkedin.com/in/denys-goloborodko-b24005175">
-        <img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" 
-	     alt="linkedin"
-	     width="26"/>
-    </a>
-    <a href="https://www.codewars.com/users/Denys1911">
-        <img src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png" 
-	     alt="codewars"
-	     width="26"/>
-    </a>
-</p>
+     width="26"/>](https://www.codewars.com/users/Denys1911)
 
 <img src="https://komarev.com/ghpvc/?username=dengoloborodko" alt="dengoloborodko"/>
