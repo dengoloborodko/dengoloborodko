@@ -11,7 +11,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dengoloborodko&show_icons=true&theme=radical&include_all_commits=true" 
      alt="dengoloborodko"/>
      
-### [Link on my portfolio](https://dengoloborodko.github.io/Portfolio/Portfolio/dist/)
+### [Link on my portfolio](https://dengoloborodko.github.io/beginning-projects/portfolio/dist/)
 
 [<img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" 
      alt="linkedin"
