@@ -16,7 +16,7 @@
 [<img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" 
      alt="linkedin"
      align="left"
-     width="26"/>](https://www.linkedin.com/in/denys-goloborodko-b24005175)
+     width="26"/>](https://www.linkedin.com/in/dengoloborodko)
 [<img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" 
      alt="mailto:den.od.1911@gmail.com"
      align="left"
