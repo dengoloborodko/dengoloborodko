@@ -24,7 +24,7 @@
 [<img src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png" 
      alt="codewars"
      align="left"
-     width="26"/>](https://www.codewars.com/users/Denys1911)
+     width="26"/>](https://www.codewars.com/users/dengoloborodko)
      
 <br/>
 <br/>
